@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-21T17:50:00+01:00",
+  "updatedAt": "2026-11-21T18:10:00+01:00",
   "agents": [
     {
       "id": "flaffycus",
       "name": "Flaffycus",
-      "status": "busy",
-      "text": "Sortiert stündlich 5 Postfächer (8–22 Uhr), Tageszusammenfassung 18 Uhr",
-      "updatedAt": "2026-11-21T17:50:00+01:00"
+      "status": "ok",
+      "text": "Zuletzt 18:10 geprüft: keine neuen Mails",
+      "updatedAt": "2026-11-21T18:10:00+01:00"
     },
     {
       "id": "lumo",
