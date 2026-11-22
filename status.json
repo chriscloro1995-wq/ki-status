@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-22T12:10:00+01:00",
+  "updatedAt": "2026-11-22T13:05:00+01:00",
   "agents": [
     {
       "id": "flaffycus",
       "name": "Flaffycus",
       "status": "ok",
-      "text": "Zuletzt 12:10: 1 Mail einsortiert",
-      "updatedAt": "2026-11-22T12:10:00+01:00"
+      "text": "Zuletzt 13:05: 3 Mails einsortiert",
+      "updatedAt": "2026-11-22T13:05:00+01:00"
     },
     {
       "id": "lumo",
@@ -94,7 +94,7 @@
     },
     {
       "label": "Neue Mails einsortiert",
-      "value": 13
+      "value": 16
     },
     {
       "label": "Offene Fragen",
