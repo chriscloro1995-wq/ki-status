@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-22T18:08:00+01:00",
+  "updatedAt": "2026-11-22T19:12:00+01:00",
   "agents": [
     {
       "id": "flaffycus",
       "name": "Flaffycus",
       "status": "ok",
-      "text": "Zuletzt 18:08: 1 Mail einsortiert",
-      "updatedAt": "2026-11-22T18:08:00+01:00"
+      "text": "Zuletzt 19:12: 3 Mails einsortiert",
+      "updatedAt": "2026-11-22T19:12:00+01:00"
     },
     {
       "id": "lumo",
@@ -84,8 +84,8 @@
   ],
   "lastMessage": {
     "from": "Flaffycus",
-    "text": "Die KI-Zentrale ist online – ab jetzt siehst du hier, was deine KIs gerade tun.",
-    "at": "2026-11-21T17:50:00+01:00"
+    "text": "Zahlung bei freiheit+ fehlgeschlagen – bitte prüfen.",
+    "at": "2026-11-22T19:12:00+01:00"
   },
   "dailyStats": [
     {
@@ -94,7 +94,7 @@
     },
     {
       "label": "Neue Mails einsortiert",
-      "value": 24
+      "value": 27
     },
     {
       "label": "Offene Fragen",
