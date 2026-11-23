@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-22T21:05:00+01:00",
+  "updatedAt": "2026-11-23T09:10:00+01:00",
   "agents": [
     {
       "id": "flaffycus",
       "name": "Flaffycus",
       "status": "ok",
-      "text": "Zuletzt 21:05: 1 Mail einsortiert",
-      "updatedAt": "2026-11-22T21:05:00+01:00"
+      "text": "Zuletzt 9:10: 3 Mails einsortiert",
+      "updatedAt": "2026-11-23T09:10:00+01:00"
     },
     {
       "id": "lumo",
@@ -84,8 +84,8 @@
   ],
   "lastMessage": {
     "from": "Flaffycus",
-    "text": "Zahlung bei freiheit+ fehlgeschlagen – bitte prüfen.",
-    "at": "2026-11-22T19:12:00+01:00"
+    "text": "Dentolo: Zahlungsfrist läuft heute ab – bitte prüfen.",
+    "at": "2026-11-23T09:10:00+01:00"
   },
   "dailyStats": [
     {
@@ -94,7 +94,7 @@
     },
     {
       "label": "Neue Mails einsortiert",
-      "value": 29
+      "value": 3
     },
     {
       "label": "Offene Fragen",
